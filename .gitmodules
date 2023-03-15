@@ -1,0 +1,3 @@
+[submodule "submodule-git-dasar"]
+	path = submodule-git-dasar
+	url = https://github.com/Naufalirsd/git-submodule-demo.git
