@@ -1,5 +1,7 @@
 [submodule "submodule-git-dasar"]
 	path = submodule-git-dasar
+	url = https://github.com/Naufalirsd/git-submodule-demo.git
+	
 [submodule "login-feature"]
 	path = login-feature
 	url = https://github.com/Naufalirsd/git-submodule-demo.git
